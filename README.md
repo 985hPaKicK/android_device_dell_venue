@@ -1,5 +1,5 @@
-android_device_dell_streak
-==========================
+android_device_dell_venue
+=========================
 
 CyanogenMod7 device tree for DL-S01 (Dell Venue) - Gingerbread Branch
 
